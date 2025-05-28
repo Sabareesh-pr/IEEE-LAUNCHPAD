@@ -1,58 +1,50 @@
-# Full Name 
+# Sabareesh P R
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> I'm a Computer Science graduate with a strong interest in both UI/UX design and development. I enjoy combining creativity and function—whether it's designing user-friendly interfaces or building the systems behind them. With experience in graphic design and a love for visual storytelling, I enjoy working in teams and learning new things.
 
 ## Portfolio Highlights
-
+Here: https://drive.google.com/drive/folders/1Wh3wrMPQOSc3eFWsueAKzp4VGo4525Ok?usp=sharing
 ### My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Library Management 1**  | Frontend of a library management system                                              | [Hosted Link 1](https://example.com)    | (https://github.com/Sabareesh-pr/mern-library-frontend)            |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Having held important positions, I have proven my leadership in design. I oversaw branding for events like Inceptra and ReLevent, supervised a design team, and trained juniors in my role as Creative Director of Tribe Catalyst IEDC. I am also the Creative & Media Co-Lead at µLearn MBCET. I worked on significant projects like "Top 100 Designers" and "Permute 2025"  while I was an intern in graphic design at GTech µLearn. These experiences demonstrate my capacity for teamwork, leadership, and producing significant creative results.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
+- I establish connections with others by being paying attention and sharing my knowledge. In order to remain involved in the community, I attend events, collaborate on group projects, and assist others.
+  
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
-
-#### Thoughts on Kerala's Tech Ecosystem:
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- I aim to actively engage with student and early-stage startup communities by contributing my design skills to help them build strong visual identities and user-friendly digital products.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- I haven’t contributed to open source projects yet, but I’m excited to start and look forward to getting involved soon.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- I’m just starting out with community engagement and eager to get involved and contribute more in the near future.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- I haven’t created highly visible technical content yet, but I have completed design projects and am working on sharing my work more widely.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Some of the major apps I use are Figma, VS Code, Canva etc.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- (https://www.linkedin.com/in/sabareeshpr/)
 
+#### Profile:
+https://app.mulearn.org/profile/sabareeshpr@mulearn
+![image](https://github.com/user-attachments/assets/fdc67473-3af4-4116-8ae7-9add7115608f)
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
